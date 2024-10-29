@@ -68,6 +68,7 @@ Instead of vanilla `docker` you can also use the provided `docker-compose.yml` f
 
 ```bash
 docker-compose --profile mysql up
+
 ```
 
 or
